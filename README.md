@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
