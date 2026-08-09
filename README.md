@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0066-plus-one) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
