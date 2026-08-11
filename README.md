@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
