@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0607-sales-person) |
+| [0627-swap-sex-of-employees](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1683-invalid-tweets](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Enumeration
