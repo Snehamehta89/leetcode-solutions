@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Enumeration
 |  |
 | ------- |
