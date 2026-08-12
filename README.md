@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
 | [2951-find-the-peaks](https://github.com/Snehamehta89/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
