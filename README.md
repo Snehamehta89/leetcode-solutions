@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0507-perfect-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0507-perfect-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
