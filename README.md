@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
 | [2951-find-the-peaks](https://github.com/Snehamehta89/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3099-harshad-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -94,9 +97,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -124,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
