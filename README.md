@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
 | [2951-find-the-peaks](https://github.com/Snehamehta89/leetcode-solutions/tree/master/2951-find-the-peaks) |
+| [3452-sum-of-good-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
