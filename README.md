@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [3436-find-valid-emails](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3436-find-valid-emails) |
 ## Enumeration
