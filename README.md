@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [3099-harshad-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
