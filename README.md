@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
