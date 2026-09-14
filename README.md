@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
@@ -109,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
