@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
