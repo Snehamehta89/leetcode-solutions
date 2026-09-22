@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/Snehamehta89/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -169,4 +172,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
