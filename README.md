@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0476-number-complement) |
 ## Sliding Window
 |  |
