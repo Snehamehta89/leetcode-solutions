@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0476-number-complement) |
 ## Sliding Window
 |  |
