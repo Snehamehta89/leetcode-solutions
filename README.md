@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Snehamehta89/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Snehamehta89/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3452-sum-of-good-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1051-height-checker) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Snehamehta89/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
