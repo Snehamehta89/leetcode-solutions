@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Snehamehta89/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Database
 |  |
 | ------- |
@@ -228,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Snehamehta89/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
